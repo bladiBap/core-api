@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestDevCore.Application",
+              "Title": "TestDevCore.Application.csproj",
               "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\TestDevCore.Application.csproj",
               "RelativeDocumentMoniker": "src\\TestDevCore.Application\\TestDevCore.Application.csproj",
               "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\TestDevCore.Application.csproj",
               "RelativeToolTip": "src\\TestDevCore.Application\\TestDevCore.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-15T08:46:05.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T08:46:05.242Z"
             }
           ]
         }

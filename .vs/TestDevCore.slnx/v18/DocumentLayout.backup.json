@@ -3,84 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED79D479-8862-C595-BD0A-FCE84A5F1876}|src\\TestDevCore.Api\\TestDevCore.Api.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.api\\controllers\\v1\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED79D479-8862-C595-BD0A-FCE84A5F1876}|src\\TestDevCore.Api\\TestDevCore.Api.csproj|solutionrelative:src\\testdevcore.api\\controllers\\v1\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\services\\exchangerates\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\services\\exchangerates\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\persistence\\repositories\\exchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\persistence\\repositories\\exchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\shared\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\shared\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D8E39-2934-BFE0-EF6F-F656C6B56A09}|src\\TestDevCore.Domain\\TestDevCore.Domain.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.domain\\exchangerates\\entities\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D8E39-2934-BFE0-EF6F-F656C6B56A09}|src\\TestDevCore.Domain\\TestDevCore.Domain.csproj|solutionrelative:src\\testdevcore.domain\\exchangerates\\entities\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\persistence\\persistencemodel\\models\\currencypersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\persistence\\persistencemodel\\models\\currencypersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\exchangerates\\commands\\getcurrentexchangerate\\getcurrentexchangeratehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\exchangerates\\commands\\getcurrentexchangerate\\getcurrentexchangeratehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\accounts\\commands\\create\\createaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\accounts\\commands\\create\\createaccounthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\accounts\\commands\\create\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\accounts\\commands\\create\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\exchangerates\\commands\\getcurrentexchangerate\\getcurrentexchangeratecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\exchangerates\\commands\\getcurrentexchangerate\\getcurrentexchangeratecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D8E39-2934-BFE0-EF6F-F656C6B56A09}|src\\TestDevCore.Domain\\TestDevCore.Domain.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.domain\\movements\\entities\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D8E39-2934-BFE0-EF6F-F656C6B56A09}|src\\TestDevCore.Domain\\TestDevCore.Domain.csproj|solutionrelative:src\\testdevcore.domain\\movements\\entities\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\testdevcore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\testdevcore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\persistence\\repositories\\exchangeratecacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\persistence\\repositories\\exchangeratecacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\persistence\\domainmodel\\config\\exchangerateconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\persistence\\domainmodel\\config\\exchangerateconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\persistence\\persistencemodel\\models\\exchangeratepersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\persistence\\persistencemodel\\models\\exchangeratepersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\movements\\commands\\createtransfer\\createtransferhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\movements\\commands\\createtransfer\\createtransferhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\services\\exchangerates\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\services\\exchangerates\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\persistence\\domainmodel\\config\\movementdetailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\persistence\\domainmodel\\config\\movementdetailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\persistence\\domainmodel\\config\\movementconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\persistence\\domainmodel\\config\\movementconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.infrastructure\\persistence\\persistencemodel\\models\\movementdetailpersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37800FDA-D1CF-EAE3-F799-2DBCF79E0C94}|src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj|solutionrelative:src\\testdevcore.infrastructure\\persistence\\persistencemodel\\models\\movementdetailpersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\testdevcore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\testdevcore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,261 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovementController.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Api\\Controllers\\V1\\MovementController.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Api\\Controllers\\V1\\MovementController.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Api\\Controllers\\V1\\MovementController.cs",
-              "RelativeToolTip": "src\\TestDevCore.Api\\Controllers\\V1\\MovementController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T08:32:49.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Shared\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\Shared\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Shared\\ValidationBehavior.cs",
-              "RelativeToolTip": "src\\TestDevCore.Application\\Shared\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T08:17:02.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateAccountHandler.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountHandler.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountHandler.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountHandler.cs",
-              "RelativeToolTip": "src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountHandler.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:49:23.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "CreateAccountCommand.cs",
               "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountCommand.cs",
               "RelativeDocumentMoniker": "src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountCommand.cs",
               "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountCommand.cs",
               "RelativeToolTip": "src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:49:18.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetCurrentExchangeRateHandler.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\ExchangeRates\\Commands\\GetCurrentExchangeRate\\GetCurrentExchangeRateHandler.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\ExchangeRates\\Commands\\GetCurrentExchangeRate\\GetCurrentExchangeRateHandler.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\ExchangeRates\\Commands\\GetCurrentExchangeRate\\GetCurrentExchangeRateHandler.cs",
-              "RelativeToolTip": "src\\TestDevCore.Application\\ExchangeRates\\Commands\\GetCurrentExchangeRate\\GetCurrentExchangeRateHandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:48:57.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetCurrentExchangeRateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\ExchangeRates\\Commands\\GetCurrentExchangeRate\\GetCurrentExchangeRateCommand.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\ExchangeRates\\Commands\\GetCurrentExchangeRate\\GetCurrentExchangeRateCommand.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\ExchangeRates\\Commands\\GetCurrentExchangeRate\\GetCurrentExchangeRateCommand.cs",
-              "RelativeToolTip": "src\\TestDevCore.Application\\ExchangeRates\\Commands\\GetCurrentExchangeRate\\GetCurrentExchangeRateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:48:56.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TestDevCore.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\TestDevCore.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-15T07:42:46.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExchangeRateRepository.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\Repositories\\ExchangeRateRepository.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\Persistence\\Repositories\\ExchangeRateRepository.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\Repositories\\ExchangeRateRepository.cs",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\Persistence\\Repositories\\ExchangeRateRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:39:56.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ExchangeRateConfig.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\ExchangeRateConfig.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\ExchangeRateConfig.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\ExchangeRateConfig.cs",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\ExchangeRateConfig.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:31:07.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExchangeRate.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Domain\\ExchangeRates\\Entities\\ExchangeRate.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Domain\\ExchangeRates\\Entities\\ExchangeRate.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Domain\\ExchangeRates\\Entities\\ExchangeRate.cs",
-              "RelativeToolTip": "src\\TestDevCore.Domain\\ExchangeRates\\Entities\\ExchangeRate.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAewB0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:16:37.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ExchangeRateCacheRepository.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\Repositories\\ExchangeRateCacheRepository.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\Persistence\\Repositories\\ExchangeRateCacheRepository.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\Repositories\\ExchangeRateCacheRepository.cs",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\Persistence\\Repositories\\ExchangeRateCacheRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowA0AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:14:06.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateTransferHandler.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Movements\\Commands\\CreateTransfer\\CreateTransferHandler.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\Movements\\Commands\\CreateTransfer\\CreateTransferHandler.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Movements\\Commands\\CreateTransfer\\CreateTransferHandler.cs",
-              "RelativeToolTip": "src\\TestDevCore.Application\\Movements\\Commands\\CreateTransfer\\CreateTransferHandler.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowC8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:06:41.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Movement.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Domain\\Movements\\Entities\\Movement.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Domain\\Movements\\Entities\\Movement.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Domain\\Movements\\Entities\\Movement.cs",
-              "RelativeToolTip": "src\\TestDevCore.Domain\\Movements\\Entities\\Movement.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:06:41.089Z",
+              "WhenOpened": "2026-06-15T08:46:09.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExchangeRateService.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Services\\ExchangeRates\\ExchangeRateService.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\Services\\ExchangeRates\\ExchangeRateService.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Services\\ExchangeRates\\ExchangeRateService.cs",
-              "RelativeToolTip": "src\\TestDevCore.Application\\Services\\ExchangeRates\\ExchangeRateService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:08:29.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ExchangeRateResponse.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Services\\ExchangeRates\\ExchangeRateResponse.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\Services\\ExchangeRates\\ExchangeRateResponse.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Services\\ExchangeRates\\ExchangeRateResponse.cs",
-              "RelativeToolTip": "src\\TestDevCore.Application\\Services\\ExchangeRates\\ExchangeRateResponse.cs",
+              "Title": "TestDevCore.Application",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\TestDevCore.Application.csproj",
+              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\TestDevCore.Application.csproj",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\TestDevCore.Application.csproj",
+              "RelativeToolTip": "src\\TestDevCore.Application\\TestDevCore.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:08:28.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MovementDetailConfig.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\MovementDetailConfig.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\MovementDetailConfig.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\MovementDetailConfig.cs",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\MovementDetailConfig.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwBAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:04:22.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MovementConfig.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\MovementConfig.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\MovementConfig.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\MovementConfig.cs",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\Persistence\\DomainModel\\Config\\MovementConfig.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:03:19.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CurrencyPersistence.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\CurrencyPersistence.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\CurrencyPersistence.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\CurrencyPersistence.cs",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\CurrencyPersistence.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBwAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:03:16.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExchangeRatePersistence.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\ExchangeRatePersistence.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\ExchangeRatePersistence.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\ExchangeRatePersistence.cs",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\ExchangeRatePersistence.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:03:13.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MovementDetailPersistence.cs",
-              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\MovementDetailPersistence.cs",
-              "RelativeDocumentMoniker": "src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\MovementDetailPersistence.cs",
-              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\MovementDetailPersistence.cs",
-              "RelativeToolTip": "src\\TestDevCore.Infrastructure\\Persistence\\PersistenceModel\\Models\\MovementDetailPersistence.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T07:03:10.993Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-15T08:46:05.242Z",
               "EditorCaption": ""
             }
           ]

@@ -7,7 +7,7 @@ using TestDevCore.Domain.Movements.Entities;
 
 namespace TestDevCore.Infrastructure.Persistence.DomainModel
 {
-    internal class DomainDbContext : DbContext
+    internal class DomainDbContext : DbContext, IDatabase
     {
         public DbSet<Currency> Currencies{ get; set; }
         public DbSet<ExchangeRate> ExchangeRates { get; set; }
@@ -23,6 +23,11 @@ namespace TestDevCore.Infrastructure.Persistence.DomainModel
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             base.OnModelCreating(modelBuilder);
+        }
+
+        public void Migrate()
+        {
+            Database.Migrate();
         }
     }
 }

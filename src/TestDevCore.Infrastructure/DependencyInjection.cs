@@ -31,6 +31,8 @@ namespace TestDevCore.Infrastructure
                     connectionString,
                     b => b.MigrationsAssembly(typeof(DomainDbContext).Assembly.FullName)));
 
+            services.AddScoped<IDatabase, DomainDbContext>();
+
             services.AddMediatR(config =>
                 config.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly())
             );
