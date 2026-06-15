@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TestDevCore.Api/TestDevCore.Api.csproj" />
+    <Project Path="src/TestDevCore.Application/TestDevCore.Application.csproj" />
+    <Project Path="src/TestDevCore.Core/TestDevCore.Core.csproj" />
+    <Project Path="src/TestDevCore.Domain/TestDevCore.Domain.csproj" />
+    <Project Path="src/TestDevCore.Infrastructure/TestDevCore.Infrastructure.csproj" />
+  </Folder>
+</Solution>

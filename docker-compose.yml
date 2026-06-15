@@ -1,0 +1,46 @@
+services:
+  core_db:
+    image: postgis/postgis:16-3.4
+    container_name: core_db
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    env_file:
+      - .env
+    ports:
+      - "5442:5432"
+    volumes:
+      - core_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER} -d ${DB_NAME}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - internal
+
+  core_api:
+    container_name: core_api
+    build:
+      context: .
+      dockerfile: src/TestDevCore.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=core_db;Port=5432;Database=${DB_NAME};Username=${DB_USER};Password=${DB_PASSWORD}
+    env_file:
+      - .env
+    ports:
+      - "5000:8080"
+    depends_on:
+      core_db:
+        condition: service_healthy
+    networks:
+      - internal
+
+volumes:
+  core_db_data:
+
+networks:
+  internal:
+    driver: bridge

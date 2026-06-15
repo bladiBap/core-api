@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\accounts\\commands\\create\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\accounts\\commands\\create\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|c:\\users\\75890424\\documents\\pruebas tecnicas\\banco-sol-core\\testdevcore\\src\\testdevcore.application\\testdevcore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEBA0D5E-3D11-4E80-4A2B-8F921921C9D2}|src\\TestDevCore.Application\\TestDevCore.Application.csproj|solutionrelative:src\\testdevcore.application\\testdevcore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountCommand.cs",
+              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountCommand.cs",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountCommand.cs",
+              "RelativeToolTip": "src\\TestDevCore.Application\\Accounts\\Commands\\Create\\CreateAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:46:09.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestDevCore.Application",
+              "DocumentMoniker": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\TestDevCore.Application.csproj",
+              "RelativeDocumentMoniker": "src\\TestDevCore.Application\\TestDevCore.Application.csproj",
+              "ToolTip": "C:\\Users\\75890424\\Documents\\Pruebas tecnicas\\banco-sol-core\\TestDevCore\\src\\TestDevCore.Application\\TestDevCore.Application.csproj",
+              "RelativeToolTip": "src\\TestDevCore.Application\\TestDevCore.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-15T08:46:05.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
